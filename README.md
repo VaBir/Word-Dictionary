@@ -1,3 +1,3 @@
 # Word-Dictionary
 
-A word dictionary.
+A word dictionary that uses the Pydictionary module.
